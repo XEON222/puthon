@@ -1,0 +1,11 @@
+import turtle
+turtle.left(90)
+turtle.circle(100,270)
+turtle.left(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.circle(10)
+turtle.left(90)
+turtle.backward(100)
+turtle.right(90)
+turtle.circle(100,90)
